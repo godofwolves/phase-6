@@ -18,7 +18,7 @@ window.location = "https://www.google.com";
 }
 
 function key()	{
-	document.getElementById("hehe").src = "images/y.png";
+	document.getElementById("hehe").src = "images/y.PNG";
 
 	
 }
